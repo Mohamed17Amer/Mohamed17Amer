@@ -1,16 +1,15 @@
-## Hi there 👋
+<h3 align="center">Software Engineer | Teaching Assistant | Flutter Developer</h3>
+<p align="center">
+  <em>Passionate about mobile development, computer graphics, and teaching the next generation of developers</em>
+</p>
 
-<!--
-**Mohamed17Amer/Mohamed17Amer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details open>
+ <summary> 📚 <b>Medium Published Articles</b>: </summary>
+<br>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/0" alt="Recent Article 0"></a>
+  <br>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/1" alt="Recent Article 1"></a>
+  <br>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/2" alt="Recent Article 2"></a>
+  <br>
+</details>
